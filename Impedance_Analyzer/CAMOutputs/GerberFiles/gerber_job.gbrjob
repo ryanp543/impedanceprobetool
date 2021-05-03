@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-08-11T17:28:24Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Impedance_Analyzer"
+        },
+        "Owner": "Ryan Poon <rpoon@mit.edu>",
+        "Size": {
+            "X": 38.1,
+            "Y": 34.29
+        }
+    }
+}
